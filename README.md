@@ -1,46 +1,60 @@
+# Visual Programming
 
-# Object-Oriented Programming (OOP)
+A course repository for **Visual Programming** students in IT2 & CYS2.
 
-**IT2 & CYS2**
+## About
 
-Welcome to the Object-Oriented Programming course repository.
+This repository contains lecture materials, source code, practical examples, and exercises for the Visual Programming course.
 
-This repository provides course materials, lecture notes, source code examples, and practical exercises to support students throughout the course.
+The course focuses on building desktop applications using **C#** and **Windows Forms (WinForms)** within the **.NET Framework**.
 
-## 📚 Course Materials
+## Course Information
 
-| Section | Description |
+| Item | Details |
 |---|---|
-| Lectures | Lecture notes and presentations |
-| Source Code | Programming examples and demonstrations |
-| Exercises | Practical programming exercises |
-| Assignments | Course assignments and tasks |
-| Resources | References and additional learning materials |
+| Course | Visual Programming |
+| Programming Language | C# |
+| Framework | .NET Framework |
+| Technology | Windows Forms (WinForms) |
+| IDE | Visual Studio |
+| Groups | IT2 & CYS2 |
 
-## 🎯 Course Objectives
+## Repository Structure
 
-- Understand the fundamentals of Object-Oriented Programming.
-- Learn how to design and implement classes and objects.
-- Apply OOP principles in practical programming.
-- Develop problem-solving and programming skills.
+```text
+Visual-Programming-IT2-CYS2/
+│
+├── Lectures/
+├── Source-Code/
+├── Exercises/
+├── Assignments/
+└── Resources/
+```
 
-## 👨‍🏫 Course Information
+## Learning Objectives
 
-- **Course:** Object-Oriented Programming
-- **Abbreviation:** OOP
-- **Groups:** IT2 & CYS2
-- **Academic Year:** 2026–2027
+By the end of this course, students should be able to:
 
-## 📖 How to Use This Repository
+- Understand the fundamentals of visual programming.
+- Work with Windows Forms applications.
+- Design graphical user interfaces.
+- Use Windows Forms controls and their properties.
+- Handle events and user interactions.
+- Build desktop applications using C#.
 
-1. Browse the lecture folders.
-2. Download the lecture materials.
-3. Explore the source code examples.
-4. Practice using the provided exercises.
-5. Check the repository regularly for updates.
+## Getting Started
+
+1. Clone or download this repository.
+2. Open the required project in Visual Studio.
+3. Make sure the required .NET Framework version is installed.
+4. Build and run the project.
+
+## Notes
+
+- All materials are intended for educational purposes.
+- Students are encouraged to practice and experiment with the examples.
+- Project requirements and framework versions may vary between examples.
 
 ---
 
-**Note:** Course materials will be updated throughout the semester.
-
-Happy Coding!
+**Visual Programming | IT2 & CYS2**

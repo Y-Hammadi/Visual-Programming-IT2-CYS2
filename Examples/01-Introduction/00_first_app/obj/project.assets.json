@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\00_first_app\\00_first_app.csproj",
+      "projectUniqueName": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\01-Introduction\\00_first_app\\00_first_app.csproj",
       "projectName": "00_first_app",
-      "projectPath": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\00_first_app\\00_first_app.csproj",
+      "projectPath": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\01-Introduction\\00_first_app\\00_first_app.csproj",
       "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-      "outputPath": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\00_first_app\\obj\\",
+      "outputPath": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\01-Introduction\\00_first_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
