@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\02\\ClientManagement\\ClientManagement.csproj",
+      "projectUniqueName": "D:\\University - T\\الكلية العالمية\\Visual Programming - IT 2 - CYS 2\\Visual-Programming-IT2-CYS2\\Examples\\02\\ClientManagement\\ClientManagement.csproj",
       "projectName": "ClientManagement",
-      "projectPath": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\02\\ClientManagement\\ClientManagement.csproj",
+      "projectPath": "D:\\University - T\\الكلية العالمية\\Visual Programming - IT 2 - CYS 2\\Visual-Programming-IT2-CYS2\\Examples\\02\\ClientManagement\\ClientManagement.csproj",
       "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-      "outputPath": "D:\\University - T\\الكلية العالمية\\OOP - IT 2 + CYS 2\\OOP-Course-IT2-CYS2\\Examples\\02\\ClientManagement\\obj\\",
+      "outputPath": "D:\\University - T\\الكلية العالمية\\Visual Programming - IT 2 - CYS 2\\Visual-Programming-IT2-CYS2\\Examples\\02\\ClientManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
